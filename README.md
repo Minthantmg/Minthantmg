@@ -36,6 +36,6 @@
 </div>
 
 <br/>
-![snake gif](https://github.com/Minthantmg/Minthantmg/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Minthantmg/Minthantmg/blob/output/github-contribution-grid-snake.svg)
 <hr/>
 
