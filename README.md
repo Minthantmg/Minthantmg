@@ -44,13 +44,16 @@
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+</div>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Minthantmg&theme=react-dark&hide_border=true&area=true)
+
+<div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Minthantmg/Minthantmg/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Minthantmg&theme=react-dark&hide_border=true&area=true)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
