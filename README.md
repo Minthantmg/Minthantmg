@@ -1,4 +1,5 @@
 
+
 <h3 align="center">A passionate software developer from Myanmar 🇲🇲</h3>
 
 <br/>
@@ -36,10 +37,5 @@
 </div>
 
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 <hr/>
 
