@@ -31,6 +31,8 @@
 
  <hr/>
  
+ ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Minthantmg&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -47,6 +49,8 @@
   
   <br/><br/><br/>
 </div>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Minthantmg&theme=react-dark&hide_border=true&area=true)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
