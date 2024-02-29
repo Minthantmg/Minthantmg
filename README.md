@@ -1,5 +1,4 @@
-
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Minthantmg.Minthantmg" />
 <h3 align="center">A passionate software developer from Myanmar 🇲🇲</h3>
 
 <br/>
