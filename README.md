@@ -30,8 +30,7 @@
 </div>
 
  <hr/>
- 
- ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Minthantmg&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
