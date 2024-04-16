@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Portfolio**
+ 🔭 I’m currently working on **MiniMart**
  
  🌱 I’m currently learning **Typescript, Swift, AWS**
 
