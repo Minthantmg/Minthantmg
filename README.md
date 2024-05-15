@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MiniMart**
+ 🔭 I’m currently working on **MyAnimeList**
  
- 🌱 I’m currently learning **Typescript, Swift, AWS**
+ 🌱 I’m currently learning **Typescript, Swift**
 
 💬 Ask me about **React, Javascript or anything**
 
