@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Taking Break for Japanese Language**
+ 🔭 I’m currently working on **NodeJs**
  
  🌱 I’m currently learning **OOP**
 
