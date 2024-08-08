@@ -31,7 +31,9 @@
 
  <hr/>
  
- ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=minthantmg&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+ <p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=minthantmg&theme=onedark&column=-1" />
+</p>
 
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -48,7 +50,6 @@
 </div>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Minthantmg&theme=react-dark&hide_border=true&area=true)
-
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Minthantmg/Minthantmg/output/github-contribution-grid-snake.svg" />
@@ -59,15 +60,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Minthantmg&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Minthantmg&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=minthantmg&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=minthantmg&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Minthantmg&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=minthantmg&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <hr/>
 
-<br/>
 
