@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NodeJs**
+ 🔭 I’m currently working on **Myanmar Postal Code**
  
- 🌱 I’m currently learning **OOP**
+ 🌱 I’m currently learning **Redux**
 
 💬 Ask me about **React, Javascript or anything**
 
