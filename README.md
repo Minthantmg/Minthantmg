@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Myanmar Postal Code,relocating to japan**
+ 🔭 I’m currently working on **relocating to japan**
  
  🌱 I’m currently learning **Redux**
 
